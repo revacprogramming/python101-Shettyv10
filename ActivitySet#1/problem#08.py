@@ -1,3 +1,3 @@
-# Files
-
-filename = "dataset/mbox-short.txt"
+x = 'bananassaaaaaaaaaa'
+y = max(x)
+print(y)

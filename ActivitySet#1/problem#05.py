@@ -3,10 +3,7 @@
 score = input("Enter Score: ")
 y=float (score)
 
-if y>=1.0:
-  print("Error")
-    
-elif y=<0:
+if y>=1.0 or y<=0:
   print("Error")
         
 elif y>=0.9:
