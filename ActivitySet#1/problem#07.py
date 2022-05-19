@@ -10,8 +10,6 @@ while True:
         a=int(num)
     except:
         print("Invalid input")
-	continue
-
     if largest is None:
         largest=a
     elif a>largest:
