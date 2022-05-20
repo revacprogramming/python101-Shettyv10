@@ -1,3 +1,1 @@
-# Dictionaries
-
-filename = "dataset/mbox-short.txt"
+print("SNEHITH SHETTY V\nCSE 'F'")
