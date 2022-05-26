@@ -1,2 +1,3 @@
-# Regular Expressions
-# https://www.py4e.com/lessons/regex
+cheeses = ['Cheddar', 'Edam', 'Gouda']
+
+print(cheeses[0])
