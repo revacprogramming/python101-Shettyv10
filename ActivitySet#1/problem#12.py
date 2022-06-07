@@ -1,3 +1,4 @@
-cheeses = ['Cheddar', 'Edam', 'Gouda']
 
-print(cheeses[0])
+
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
