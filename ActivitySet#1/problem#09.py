@@ -12,5 +12,6 @@ for line in fh:
     count = count + 1
     x= x + y
 
+
 avg= x/count
 print ("Average spam confidence:",avg)
