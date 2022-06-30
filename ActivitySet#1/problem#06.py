@@ -1,5 +1,7 @@
 #Functions
 
+
+
 hrs = input("Enter Hours:")
 h = float(hrs)
 rate = input("Enter the rate:")
