@@ -1,2 +1,4 @@
-# Databases
-# https://www.py4e.com/lessons/database
+import numpy as np
+a = np.array([1,2,3])   
+print(a)
+np.diag(a)
