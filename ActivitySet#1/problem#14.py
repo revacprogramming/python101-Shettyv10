@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 
 url = raw_input("Enter location: ")
 if len(url) < 1:
-    url = "http://python-data.dr-chuck.net/comments_200531.xml"
+    url = " http://py4e-data.dr-chuck.net/regex_sum_1549500.txt"
 print ("Retrieving " + url)
 
 xml = urllib.urlopen(url).read()
