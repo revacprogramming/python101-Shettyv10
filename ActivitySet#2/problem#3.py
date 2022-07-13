@@ -1,7 +1,7 @@
 
 
 def get_cs():
-    """get string input"""
+    return
 
 
 def cs_to_lot(cs):
