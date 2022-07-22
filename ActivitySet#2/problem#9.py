@@ -1,5 +1,3 @@
-
-
 class Menu(dict):
     """fill in class definition here"""
 
