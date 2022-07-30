@@ -1,5 +1,7 @@
 #DICTS
 
+
+
 fname = input("Enter file:")
 if len(fname) < 1 : name = "mbox-short.txt"
 hand = open(fname)
